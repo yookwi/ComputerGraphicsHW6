@@ -14,6 +14,7 @@
 #include <glm/gtc/constants.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtx/string_cast.hpp>
+#include<algorithm>
 
 using namespace glm;
 using namespace std;
