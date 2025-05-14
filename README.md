@@ -6,7 +6,7 @@ Flat Shading
 
 Gouraud Shading
 
-![스크린샷 2025-05-14 214921](https://github.com/user-attachments/assets/ab3f4f54-05fd-496e-92c2-ced3339ad0e4)
+![스크린샷 2025-05-14 214837](https://github.com/user-attachments/assets/03c7f215-066e-4efa-a14a-5d218f5b5991)
 
 Phong Shading
 
